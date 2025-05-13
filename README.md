@@ -43,9 +43,9 @@
 
 | Project | Description | Tech Stack | Live Demo |
 |--------|-------------|------------|------------|
-| **AnimePedia** | An anime catalog app that displays anime and character details | React, Tailwind, Express, MongoDB | [View Site](https://your-animepedia-link.com) |
-| **Task Manager API** | A RESTful API for managing tasks and users | Node.js, Express, MongoDB | [View Repo](https://github.com/jaykumardohare/task-manager-api) |
-| **Responsive Portfolio** | Personal portfolio website showcasing my projects and skills | HTML, CSS, JavaScript | [View Site](https://your-portfolio-link.com) |
+| **Responsive Portfolio** | Personal portfolio website showcasing my projects and skills |React, Vite, Tailwind CSS | [View Site](https://portfolio-jaykumardohares-projects.vercel.app/) |
+<!-- | **AnimePedia** | An anime catalog app that displays anime and character details | React, Tailwind, Express, MongoDB | [View Site](https://your-animepedia-link.com) | -->
+<!-- | **Task Manager API** | A RESTful API for managing tasks and users | Node.js, Express, MongoDB | [View Repo](https://github.com/jaykumardohare/task-manager-api) | -->
 
 > More projects available on my GitHub!
 
