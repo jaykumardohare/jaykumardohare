@@ -39,6 +39,18 @@
 
 ---
 
+### 💼 Portfolio Projects
+
+| Project | Description | Tech Stack | Live Demo |
+|--------|-------------|------------|------------|
+| **AnimePedia** | An anime catalog app that displays anime and character details | React, Tailwind, Express, MongoDB | [View Site](https://your-animepedia-link.com) |
+| **Task Manager API** | A RESTful API for managing tasks and users | Node.js, Express, MongoDB | [View Repo](https://github.com/jaykumardohare/task-manager-api) |
+| **Responsive Portfolio** | Personal portfolio website showcasing my projects and skills | HTML, CSS, JavaScript | [View Site](https://your-portfolio-link.com) |
+
+> More projects available on my GitHub!
+
+---
+
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/jaykumardohare/)
 - 💌 Email: [your.email@example.com](jaykumardohare123@gmail.com)
