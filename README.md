@@ -1,13 +1,29 @@
-- 👋 Hi, I’m @jaykumardohare
-- 👀 I’m interested in full-stack development and learning new tech stacks
-- 🌱 I’m currently learning advanced JavaScript, React and Node.js.
-- 💞️ I’m looking to collaborate on full-stack development projects.
-- 📫 How to reach me: [jaykumardohare123@gmail.com](mailto:jaykumardohare123@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m a full-stack developer by day, but at night you’ll find me leveling up in my favorite online multiplayer game!
+# Hi there, I'm Jay Kumar Dohare 👋
 
+I'm a passionate Full Stack Developer with a focus on building efficient and scalable web applications.
 
-<!---
-jaykumardohare/jaykumardohare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+
+- 🔭 Currently learning and building full-stack projects
+- 🌱 Exploring backend technologies like Node.js, Express & MongoDB
+- 💼 Open to collaboration on exciting web development projects
+- 🧠 Always learning and trying to improve my coding skills
+
+## 🛠️ Tech Stack
+
+- **Languages:** JavaScript, TypeScript
+- **Frontend:** React, Tailwind CSS, HTML, CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, VSCode, Postman
+
+## 📈 GitHub Stats
+
+![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/jaykumardohare/)
+- [Portfolio](https://portfolio-jaykumardohares-projects.vercel.app/)
