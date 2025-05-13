@@ -53,4 +53,4 @@
 
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/jaykumardohare/)
-- 💌 Email: [your.email@example.com](jaykumardohare123@gmail.com)
+- 💌 Email: [jaykumardohare123@gmail.com](jaykumardohare123@gmail.com)
