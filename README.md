@@ -1,29 +1,53 @@
-# Hi there, I'm Jay Kumar Dohare 👋
+<h1 align="center">Hi there, I'm Jay Kumar Dohare 👋</h1>
 
-I'm a passionate Full Stack Developer with a focus on building efficient and scalable web applications.
+<p align="center">
+  <a href="https://github.com/jaykumardohare"><img src="https://img.shields.io/github/followers/jaykumardohare?label=GitHub&style=social" alt="GitHub Followers"></a>
+  <a href="https://www.linkedin.com/in/jaykumardohare/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
-## 🚀 About Me
+---
 
-- 🔭 Currently learning and building full-stack projects
-- 🌱 Exploring backend technologies like Node.js, Express & MongoDB
-- 💼 Open to collaboration on exciting web development projects
-- 🧠 Always learning and trying to improve my coding skills
+### 🚀 About Me
+- 💼 Full Stack Developer (MERN)
+- 🔍 Passionate about building scalable web applications
+- ⚙️ Currently exploring backend system design
+- 🧠 Always learning new technologies and best practices
 
-## 🛠️ Tech Stack
+---
 
-- **Languages:** JavaScript, TypeScript
-- **Frontend:** React, Tailwind CSS, HTML, CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Tools:** Git, GitHub, VSCode, Postman
+### 🛠️ Tech Stack
 
-## 📈 GitHub Stats
+#### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 
-![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+#### Frontend
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+#### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
 
-## 📫 Let's Connect
+#### Tools & Platforms
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 
-- [LinkedIn](https://www.linkedin.com/in/jaykumardohare/)
-- [Portfolio](https://portfolio-jaykumardohares-projects.vercel.app/)
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaykumardohare&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaykumardohare&theme=radical" alt="GitHub Streak Stats" width="48%"/>
+</p>
+
+---
+
+### 📫 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/jaykumardohare/)
+- 💌 Email: [your.email@example.com](mailto:your.email@example.com)
