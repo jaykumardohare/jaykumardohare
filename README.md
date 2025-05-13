@@ -42,4 +42,4 @@
 
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/jaykumardohare/)
-- 💌 Email: [your.email@example.com](mailto:your.email@example.com)
+- 💌 Email: [your.email@example.com](jaykumardohare123@gmail.com)
